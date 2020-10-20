@@ -39,6 +39,7 @@ span {
     text-align: center;
     transition: all ease-in-out .3s;
     cursor: pointer;
+    overflow: hidden;
 }
 .wrapper > div:hover {
     opacity: .7;
